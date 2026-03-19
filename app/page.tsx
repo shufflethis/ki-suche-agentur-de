@@ -14,12 +14,12 @@ export default function Home() {
             <a href="#faq" className="hover:text-white transition">FAQ</a>
             <a href="#kontakt" className="hover:text-white transition">Kontakt</a>
           </div>
-          <a
-            href="#kontakt"
-            className="rounded-lg bg-violet-600 px-4 py-2 text-sm font-medium text-white hover:bg-violet-500 transition"
+          <button
+            data-open-audit
+            className="rounded-lg bg-violet-600 px-4 py-2 text-sm font-medium text-white hover:bg-violet-500 transition cursor-pointer"
           >
             Kostenlose Analyse
-          </a>
+          </button>
         </div>
       </nav>
 
@@ -44,12 +44,12 @@ export default function Home() {
             GEO-Agentur verbinden wir klassische SEO-Expertise mit modernster KI-Optimierung.
           </p>
           <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
-            <a
-              href="#kontakt"
-              className="rounded-lg bg-violet-600 px-8 py-3.5 text-base font-medium text-white shadow-lg shadow-violet-600/25 hover:bg-violet-500 transition"
+            <button
+              data-open-audit
+              className="rounded-lg bg-violet-600 px-8 py-3.5 text-base font-medium text-white shadow-lg shadow-violet-600/25 hover:bg-violet-500 transition cursor-pointer"
             >
               Kostenlose Sichtbarkeitsanalyse anfordern
-            </a>
+            </button>
             <a
               href="#warum-geo"
               className="rounded-lg border border-neutral-700 px-8 py-3.5 text-base font-medium text-neutral-300 hover:border-neutral-500 hover:text-white transition"
@@ -324,46 +324,15 @@ export default function Home() {
             KI-Suchsystemen dargestellt wird. Wir pruefen Ihre Sichtbarkeit und zeigen Ihnen
             konkrete Optimierungspotenziale — kostenlos und unverbindlich.
           </p>
-          <form
-            className="mt-10 space-y-4 text-left"
-            action="https://formspree.io/f/placeholder"
-            method="POST"
+          <button
+            data-open-audit
+            className="mt-10 inline-flex items-center gap-2 rounded-lg bg-violet-600 px-8 py-3.5 text-base font-medium text-white shadow-lg shadow-violet-600/25 hover:bg-violet-500 transition cursor-pointer"
           >
-            <div className="grid gap-4 sm:grid-cols-2">
-              <input
-                type="text"
-                name="name"
-                placeholder="Ihr Name"
-                required
-                className="rounded-lg border border-neutral-700 bg-neutral-800 px-4 py-3 text-sm outline-none placeholder:text-neutral-500 focus:border-violet-500"
-              />
-              <input
-                type="email"
-                name="email"
-                placeholder="Ihre E-Mail"
-                required
-                className="rounded-lg border border-neutral-700 bg-neutral-800 px-4 py-3 text-sm outline-none placeholder:text-neutral-500 focus:border-violet-500"
-              />
-            </div>
-            <input
-              type="url"
-              name="website"
-              placeholder="Ihre Website (z.B. https://firma.de)"
-              className="w-full rounded-lg border border-neutral-700 bg-neutral-800 px-4 py-3 text-sm outline-none placeholder:text-neutral-500 focus:border-violet-500"
-            />
-            <textarea
-              name="message"
-              rows={3}
-              placeholder="Ihre Nachricht (optional)"
-              className="w-full rounded-lg border border-neutral-700 bg-neutral-800 px-4 py-3 text-sm outline-none placeholder:text-neutral-500 focus:border-violet-500"
-            />
-            <button
-              type="submit"
-              className="w-full rounded-lg bg-violet-600 py-3.5 text-base font-medium text-white shadow-lg shadow-violet-600/25 hover:bg-violet-500 transition"
-            >
-              Kostenlose Analyse anfordern
-            </button>
-          </form>
+            🎯 Gratis GEO Audit starten
+          </button>
+          <p className="mt-4 text-xs text-neutral-500">
+            Kein Abo, kein Vertrag, kein Risiko. Ergebnis innerhalb von 24h per Mail.
+          </p>
         </div>
       </section>
 

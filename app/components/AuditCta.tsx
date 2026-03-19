@@ -32,6 +32,19 @@ export default function AuditCta() {
     return () => document.removeEventListener("keydown", handler);
   }, [close]);
 
+  // Allow any element with data-open-audit to open the modal
+  useEffect(() => {
+    const handler = (e: MouseEvent) => {
+      const trigger = (e.target as HTMLElement).closest("[data-open-audit]");
+      if (trigger) {
+        e.preventDefault();
+        open();
+      }
+    };
+    document.addEventListener("click", handler);
+    return () => document.removeEventListener("click", handler);
+  }, [open]);
+
   // Auto-close after success
   useEffect(() => {
     if (message?.type === "success") {
