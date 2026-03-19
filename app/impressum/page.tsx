@@ -53,8 +53,8 @@ export default function ImpressumPage() {
                 Telefon: 030 21923869<br />
                 Telefax: 030 403 665 450<br />
                 E-Mail:{" "}
-                <a href="mailto:info@famefact.com" className="text-violet-400 hover:text-violet-300 transition">
-                  info@famefact.com
+                <a href="mailto:hi@ki-suche-agentur.de" className="text-violet-400 hover:text-violet-300 transition">
+                  hi@ki-suche-agentur.de
                 </a>
               </p>
             </section>
