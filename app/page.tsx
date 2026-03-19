@@ -83,29 +83,29 @@ export default function Home() {
           <div className="mt-8 space-y-6 text-neutral-400 leading-relaxed">
             <p>
               Die Art, wie Menschen im Internet nach Informationen, Produkten und Dienstleistungen
-              suchen, veraendert sich grundlegend. Waehrend Google jahrelang das unangefochtene
-              Tor zum Internet war, nutzen immer mehr Menschen KI-basierte Suchsysteme wie
-              ChatGPT, Perplexity, Google Gemini, Microsoft Copilot und Claude als erste
-              Anlaufstelle fuer ihre Fragen. Diese KI-Systeme liefern keine Liste von zehn blauen
-              Links mehr, sondern direkte, zusammengefasste KI-Antworten — oft mit konkreten
+              suchen, veraendert sich grundlegend. Waehrend Suchmaschinen wie Google jahrelang das
+              unangefochtene Tor zum Internet waren, nutzen immer mehr Menschen KI-gestuetzte
+              Suchsysteme wie ChatGPT, Perplexity, Google Gemini und AI-Chatbots als erste
+              Anlaufstelle fuer ihre Fragen. Diese Systeme liefern keine Liste von zehn blauen
+              Links mehr, sondern direkte, zusammengefasste Antworten — oft mit konkreten
               Empfehlungen fuer Unternehmen, Produkte und Dienstleister.
             </p>
             <p>
-              Fuer Unternehmen bedeutet das: Wer in diesen KI-Antworten nicht vorkommt, verliert
-              zunehmend Sichtbarkeit und potenzielle Kunden. Klassische Suchmaschinenoptimierung
-              (SEO) allein reicht nicht mehr aus. Die Algorithmen von Large Language Models und
-              KI-Modellen funktionieren fundamental anders als der Google-Algorithmus. Sie bewerten
-              Autoritaet, Konsistenz und semantische Relevanz auf eine voellig neue Weise. Genau
-              hier setzt Generative Engine Optimization an — die systematische Optimierung Ihrer
-              digitalen Praesenz fuer KI-Suchsysteme und KI-Suchen.
+              Fuer Unternehmen bedeutet das: Wer heute in ki-generierten Antworten nicht vorkommt,
+              verliert zunehmend Sichtbarkeit, Traffic und potenzielle Kunden. Klassische
+              Suchmaschinenoptimierung (SEO) allein reicht nicht mehr aus. Die Algorithmen von
+              generativen KI-Systemen funktionieren fundamental anders als der Google-Algorithmus.
+              Sie bewerten Autoritaet, Konsistenz und semantische Relevanz auf eine voellig neue
+              Weise. Genau hier setzt Generative Engine Optimization an — die systematische
+              Optimierung Ihrer digitalen Praesenz fuer KI-Suchmaschinen und KI-Suchen.
             </p>
             <p>
               Ob AI Overviews bei Google, Perplexity als Recherche-Tool oder ChatGPT als
               Beratungsassistent: Die Zielgruppe Ihrer Kunden verteilt sich auf immer mehr
               KI-Systemen. Wer jetzt nicht gezielt optimiert, verliert den Anschluss. Eine
-              strategisch aufgestellte GEO Agentur analysiert die relevanten Quellen, aus denen
-              KI-Modelle ihre Antworten zusammenstellen, und sorgt dafuer, dass Ihre Marke als
-              vertrauenswuerdige und relevante Quelle erkannt wird.
+              strategisch aufgestellte GEO Agentur analysiert die Quellen, aus denen
+              Chatbots ihre Antworten zusammenstellen, und sorgt dafuer, dass Ihre Marke als
+              vertrauenswuerdige Quelle erkannt wird.
             </p>
           </div>
         </div>
@@ -122,23 +122,23 @@ export default function Home() {
               Als eine der ersten spezialisierten GEO-Agenturen im deutschsprachigen Raum haben
               wir fruehzeitig erkannt, dass Unternehmen eine neue Strategie brauchen, um in der
               Aera der KI-Suche wettbewerbsfaehig zu bleiben. Unser Team kombiniert tiefes
-              Verstaendnis fuer natuerliche Sprachverarbeitung, LLM-Architektur und klassisches
-              digitales Marketing zu einem ganzheitlichen Ansatz, der Ihre Marke dort platziert,
+              Know-how in natuerlicher Sprachverarbeitung, generativen Systemen und klassischem
+              digitalem Marketing zu einem ganzheitlichen Ansatz, der Ihre Marke dort platziert,
               wo Ihre Kunden heute suchen.
             </p>
             <p>
               Was uns von anderen Agenturen unterscheidet: Wir verbinden fundierte SEO-Expertise
-              mit modernster KI-Optimierung. Wir kennen nicht nur die Ranking-Faktoren von Google,
-              sondern verstehen, wie ChatGPT, Perplexity und Google Gemini entscheiden, welche
-              Quellen sie in ihren KI-Antworten zitieren. Dieses Wissen setzen wir strategisch
-              ein — mit datenbasierten Massnahmen, die messbare Ergebnisse liefern.
+              mit modernster KI-Optimierung. Wir kennen nicht nur die Ranking-Faktoren von
+              Suchmaschinen, sondern verstehen, wie ChatGPT, Perplexity und Google Gemini
+              entscheiden, welche Quellen sie in ihren Antworten zitieren. Dieses Know-how
+              setzen wir strategisch ein — mit datenbasierten Massnahmen, die messbare
+              Ergebnisse liefern.
             </p>
             <p>
               Unsere Kunden profitieren von kontinuierlichem Monitoring ihrer KI-Sichtbarkeit,
-              regelmaessigen Analysen und einem proaktiven Ansatz: Wenn sich KI-Modelle aendern
-              oder neue KI-Systeme relevant werden, passen wir Ihre Strategie sofort an. So
-              bleiben Sie dauerhaft als relevante Quelle sichtbar — von ChatGPT bis Google
-              AI Overviews.
+              regelmaessigen Analysen und einem proaktiven Ansatz. Wir sorgen dafuer, dass Sie
+              dauerhaft sichtbar bleiben — von ChatGPT bis Google AI Overviews. Wenn sich
+              generative Suchsysteme aendern, passen wir Ihre Strategie sofort an.
             </p>
           </div>
         </div>
@@ -164,27 +164,27 @@ export default function Home() {
               {
                 icon: "📊",
                 title: "GEO-Strategieentwicklung",
-                desc: "Basierend auf der Analyse entwickeln wir eine massgeschneiderte GEO-Strategie. Wir identifizieren die relevanten Prompts und Suchanfragen Ihrer Zielgruppe, analysieren die Quellen, die LLMs bevorzugt zitieren, und erstellen einen strategischen Fahrplan fuer maximale KI-Sichtbarkeit.",
+                desc: "Basierend auf der Analyse entwickeln wir eine massgeschneiderte GEO-Strategie. Wir identifizieren die wichtigsten Prompts und Suchanfragen Ihrer Zielgruppe, analysieren die Quellen in den Suchergebnissen und erstellen einen strategischen Fahrplan fuer maximale KI-Sichtbarkeit.",
               },
               {
                 icon: "✍️",
-                title: "Content-Optimierung fuer LLMs",
-                desc: "Wir optimieren Ihre bestehenden Inhalte und erstellen hochwertigen Content, der von KI-Systemen bevorzugt als Quelle herangezogen wird. Dazu gehoeren strukturierte Daten, Entity-Markup und semantisch reichhaltige Texte mit den richtigen Keywords, die LLMs als vertrauenswuerdig einstufen.",
+                title: "Content-Optimierung fuer KI-Suchmaschinen",
+                desc: "Wir optimieren Ihre bestehenden Inhalte und erstellen hochwertigen Content, der von ki-gestuetzten Suchsystemen bevorzugt als Quelle herangezogen wird. Dazu gehoeren strukturierte Daten, Entity-Markup und semantisch reichhaltige Texte mit den richtigen Keywords, die KI-Systeme als vertrauenswuerdig einstufen.",
               },
               {
                 icon: "🏗️",
                 title: "Technische GEO-Optimierung",
-                desc: "Wir implementieren technische Massnahmen wie llms.txt-Dateien, optimierte Schema-Markups, Knowledge-Graph-Integration und strukturierte FAQ-Bereiche. Diese technischen Signale helfen KI-Systemen, Ihre Inhalte korrekt zu verstehen und in KI-Antworten einzubinden.",
+                desc: "Wir implementieren technische Massnahmen wie llms.txt-Dateien, optimierte Schema-Markups, Knowledge-Graph-Integration und strukturierte FAQ-Bereiche. Diese technischen Signale helfen Suchmaschinen und KI-Systemen, Ihre Inhalte korrekt zu verstehen und in Suchergebnissen einzubinden.",
               },
               {
                 icon: "📈",
                 title: "Prompt-Monitoring & Tracking",
-                desc: "Mit unseren Monitoring-Tools tracken wir kontinuierlich, wie Ihr Unternehmen in KI-Antworten erwaehnt wird. Sie sehen in Echtzeit, bei welchen Prompts Sie auftauchen, wie sich Ihre Sichtbarkeit entwickelt und wo noch Optimierungspotenzial besteht.",
+                desc: "Mit unseren Monitoring-Tools tracken wir kontinuierlich Ihre Erwaehnungen in KI-Systemen. Sie sehen in Echtzeit, bei welchen Prompts Sie auftauchen, wie sich Ihre Sichtbarkeit und Ihr Traffic entwickeln und wo noch Optimierungspotenzial besteht.",
               },
               {
                 icon: "🤝",
                 title: "Reputation Engineering",
-                desc: "Wir bauen gezielt digitale Autoritaetssignale auf, die LLMs dazu bringen, Ihr Unternehmen haeufiger und positiver zu erwaehnen. Dazu gehoeren PR-Massnahmen, Branchenverzeichnisse, Fachpublikationen und strategisches Community-Engagement auf Plattformen wie Reddit und LinkedIn.",
+                desc: "Wir bauen gezielt digitale Autoritaetssignale auf, die generative Suchsysteme dazu bringen, Ihr Unternehmen haeufiger und positiver zu erwaehnen. Dazu gehoeren PR-Massnahmen, Branchenverzeichnisse, Fachpublikationen und strategisches Community-Engagement auf Plattformen wie Reddit und LinkedIn.",
               },
             ].map((s) => (
               <div
@@ -211,19 +211,19 @@ export default function Home() {
               KI-Optimierung ist kein einmaliges Projekt, sondern ein kontinuierlicher Prozess.
               Unsere GEO-Agentur setzt auf eine Kombination aus datenbasierter Analyse, strategischer
               Content-Erstellung und technischer Suchmaschinenoptimierung, um Ihre Marke in den
-              KI-Antworten von ChatGPT, Perplexity und Google Gemini zu platzieren.
+              Suchergebnissen von ChatGPT, Perplexity und Google Gemini zu platzieren.
             </p>
             <p>
-              Der erste Schritt ist immer eine tiefgehende Analyse: Wir pruefen, welche KI-Systeme
-              fuer Ihre Zielgruppe relevant sind, welche Prompts Ihre potenziellen Kunden verwenden
-              und welche Wettbewerber bereits in KI-Antworten auftauchen. Daraus leiten wir eine
+              Der erste Schritt ist immer eine tiefgehende Analyse: Wir pruefen, welche ki-gestuetzten
+              Suchmaschinen fuer Ihre Zielgruppe wichtig sind, welche Prompts Ihre potenziellen Kunden
+              verwenden und welche Wettbewerber bereits Erwaehnungen erhalten. Daraus leiten wir eine
               gezielte Strategie ab — mit klaren Prioritaeten, messbaren KPIs und einem realistischen
               Zeitplan.
             </p>
             <p>
-              Im Kern geht es darum, Ihre Inhalte so zu strukturieren, dass KI-Modelle sie als
-              hochwertige, relevante Quelle erkennen. Das bedeutet: semantisch optimierter Content,
-              strukturierte Daten, konsistente Entity-Signale und vertrauenswuerdige Backlinks
+              Im Kern geht es darum, Ihre Inhalte so zu strukturieren, dass ki-gestuetzte Systeme sie
+              als hochwertige, vertrauenswuerdige Quelle erkennen. Das bedeutet: semantisch optimierter
+              Content, strukturierte Daten, konsistente Entity-Signale und vertrauenswuerdige Backlinks
               aus autoritaetiven Quellen. Gleichzeitig ueberwachen wir mit unseren Monitoring-Tools
               kontinuierlich, wie sich Ihre KI-Sichtbarkeit entwickelt, und passen die Massnahmen
               laufend an.
@@ -244,22 +244,23 @@ export default function Home() {
               indexierter Webseiten und Trainingsdaten zurueck. Perplexity durchsucht das Internet
               in Echtzeit und bevorzugt aktuelle, gut strukturierte Quellen. Google Gemini und die
               AI Overviews nutzen die eigene Suchinfrastruktur, bewerten aber zusaetzlich Entity-Signale
-              und Knowledge-Graph-Daten. Und Claude setzt stark auf kontextuell relevante,
+              und Knowledge-Graph-Daten. Und Claude setzt stark auf kontextuell passende,
               faktenbasierte Inhalte.
             </p>
             <p>
               Unsere Expertise als GEO Agentur liegt darin, diese unterschiedlichen Anforderungen
               zu verstehen und eine uebergreifende Strategie zu entwickeln. Wir analysieren, wie
-              verschiedene KI-Modelle Ihre Branche und Ihre Wettbewerber behandeln, und optimieren
+              verschiedene Suchmaschinen und Chatbots Ihre Branche behandeln, und optimieren
               gezielt fuer die Plattformen, die fuer Ihre Zielgruppe die hoechste Relevanz haben.
-              So maximieren wir Ihre Sichtbarkeit in der gesamten KI-Suchlandschaft.
+              So sorgen wir dafuer, dass Sie maximale Sichtbarkeit in der gesamten KI-Suchlandschaft
+              erhalten.
             </p>
             <p>
-              Besonders wichtig: KI-Systeme aktualisieren ihre Modelle und Datenquellen
-              kontinuierlich. Was heute in einer KI-Antwort erscheint, kann morgen verschwinden.
-              Deshalb ist fortlaufendes Monitoring unverzichtbar. Unsere Tools tracken Ihre
-              Praesenz in allen relevanten KI-Systemen und alarmieren sofort, wenn sich
-              Veraenderungen ergeben.
+              Besonders wichtig: Generative KI-Systeme aktualisieren ihre Datenquellen
+              kontinuierlich. Was heute in ki-generierten Antworten erscheint, kann morgen
+              verschwinden. Deshalb ist fortlaufendes Monitoring unverzichtbar. Unsere Tools
+              tracken Ihre Erwaehnungen in allen wichtigen Suchmaschinen und KI-Systemen und
+              alarmieren sofort, wenn sich Veraenderungen ergeben.
             </p>
           </div>
         </div>
@@ -276,23 +277,24 @@ export default function Home() {
               Hochwertiger Content ist das Fundament jeder erfolgreichen GEO-Strategie. Aber
               Content fuer KI-Systeme unterscheidet sich grundlegend von klassischem SEO-Content.
               Waehrend Suchmaschinenoptimierung auf Keywords und Backlinks setzt, geht es bei der
-              KI-Optimierung darum, als relevante Quelle fuer LLMs erkannt zu werden. Das erfordert
-              faktenreiche, gut strukturierte Inhalte, die semantisch praezise formuliert sind.
+              KI-Optimierung darum, in ki-gestuetzten Suchergebnissen als vertrauenswuerdige Quelle
+              erkannt zu werden. Das erfordert faktenreiche, gut strukturierte Inhalte, die
+              semantisch praezise formuliert sind.
             </p>
             <p>
               Unsere Content-Strategie fuer GEO umfasst: die Erstellung von Answer-First Content,
-              der direkt auf haeufige KI-Anfragen antwortet; den Aufbau von Pillar-Pages, die Ihre
-              Expertise in einem Themengebiet buendeln; und die Optimierung bestehender Inhalte mit
-              strukturierten Daten, Schema-Markup und semantisch relevanten Keywords. All das macht
-              Ihren Content nicht nur fuer KI-Suchen sichtbar, sondern verbessert auch Ihre
-              klassischen SEO-Rankings.
+              der direkt auf haeufige Anfragen in Chatbots antwortet; den Aufbau von Pillar-Pages,
+              die Ihre Expertise in einem Themengebiet buendeln; und die Optimierung bestehender
+              Inhalte mit strukturierten Daten, Schema-Markup und passenden Keywords. All das
+              sorgt dafuer, dass Ihr Content nicht nur in Suchmaschinen sichtbar ist, sondern
+              auch in generativen KI-Suchen gefunden wird.
             </p>
             <p>
-              Ein weiterer entscheidender Faktor: Zitierfaehigkeit. KI-Modelle bevorzugen Inhalte,
-              die sie als vertrauenswuerdige Quelle zitieren koennen. Das bedeutet: klare
-              Autorenprofile, Quellenangaben, Statistiken und Expertenmeinungen. Wir helfen Ihnen,
-              Content zu erstellen, der nicht nur gefunden wird, sondern in KI-Antworten aktiv
-              empfohlen und verlinkt wird.
+              Ein weiterer entscheidender Faktor: Zitierfaehigkeit. Generative Suchsysteme
+              bevorzugen Inhalte, die sie als vertrauenswuerdige Quelle zitieren koennen. Das
+              bedeutet: klare Autorenprofile, Quellenangaben, Statistiken und Expertenmeinungen.
+              Wir helfen Ihnen, Content zu erstellen, der nicht nur gefunden wird, sondern
+              Traffic und Erwaehnungen in ki-generierten Antworten generiert.
             </p>
           </div>
         </div>
@@ -390,10 +392,10 @@ export default function Home() {
             </table>
           </div>
           <p className="mt-8 text-neutral-400 leading-relaxed">
-            Wichtig: GEO ersetzt SEO nicht, sondern ergaenzt es. Viele LLMs nutzen Google-Suchergebnisse
-            als Datenquelle. Eine starke Suchmaschinenoptimierung als Basis verstaerkt daher auch Ihre
-            GEO-Ergebnisse. Unsere Strategie integriert beide Disziplinen fuer maximale Sichtbarkeit —
-            egal ob Ihre Kunden bei Google suchen, Perplexity nutzen oder ChatGPT fragen.
+            Wichtig: GEO ersetzt SEO nicht, sondern ergaenzt es. Viele generative Suchsysteme nutzen
+            Google-Suchergebnisse als Datenquelle. Eine starke Suchmaschinenoptimierung als Basis
+            verstaerkt daher auch Ihre GEO-Ergebnisse. Unsere Strategie integriert beide Disziplinen
+            fuer maximale Sichtbarkeit — egal ob Ihre Kunden bei Suchmaschinen suchen oder Chatbots fragen.
           </p>
         </div>
       </section>
@@ -414,15 +416,16 @@ export default function Home() {
             </p>
             <p>
               Eine KI-Optimierung ist strategisch sinnvoll, wenn Sie feststellen, dass Ihre
-              Wettbewerber bereits in KI-Antworten auftauchen, Ihre Website zwar gute SEO-Rankings
-              hat, aber in ChatGPT oder Perplexity nicht erwaehnt wird, oder wenn Sie neue
-              Maerkte und Zielgruppen erschliessen wollen. In all diesen Faellen bietet GEO
-              einen messbaren Wettbewerbsvorteil.
+              Wettbewerber bereits Erwaehnungen in generativen Suchergebnissen erhalten, Ihre
+              Website zwar gute SEO-Rankings hat, aber in ChatGPT oder Perplexity nicht auftaucht,
+              oder wenn Sie neue Maerkte und Zielgruppen erschliessen wollen. In all diesen
+              Faellen bietet GEO einen messbaren Wettbewerbsvorteil und sorgt dafuer, dass Sie
+              mehr Traffic aus KI-Quellen erhalten.
             </p>
             <p>
-              Unser Rat: Warten Sie nicht, bis Ihre Wettbewerber die KI-Suche dominieren.
-              Fruehzeitige Optimierung zahlt sich aus, denn KI-Modelle bauen auf historischen
-              Daten auf. Je frueher Sie als relevante Quelle etabliert sind, desto stabiler
+              Unser Rat: Wer heute nicht in KI-Suchmaschinen optimiert, verliert morgen Marktanteile.
+              Fruehzeitige Optimierung zahlt sich aus, denn generative Systeme bauen auf historischen
+              Daten auf. Je frueher Sie als vertrauenswuerdige Quelle etabliert sind, desto stabiler
               ist Ihre Position langfristig.
             </p>
           </div>
@@ -439,11 +442,11 @@ export default function Home() {
             {[
               {
                 q: "Was genau ist Generative Engine Optimization (GEO)?",
-                a: "GEO ist die systematische Optimierung Ihrer digitalen Praesenz fuer KI-basierte Suchsysteme wie ChatGPT, Perplexity, Google Gemini und AI Overviews. Ziel ist es, dass Ihr Unternehmen in den KI-Antworten dieser Systeme erwaehnt und empfohlen wird. Waehrend klassisches SEO auf Google-Rankings abzielt, optimiert GEO gezielt fuer die Algorithmen von Large Language Models und KI-Modellen.",
+                a: "GEO ist die systematische Optimierung Ihrer digitalen Praesenz fuer ki-gestuetzte Suchsysteme wie ChatGPT, Perplexity, Google Gemini und AI Overviews. Ziel ist es, dass Ihr Unternehmen in den Antworten dieser Systeme erwaehnt und empfohlen wird. Waehrend klassisches SEO auf Google-Rankings abzielt, optimiert GEO gezielt fuer die Algorithmen von generativen Suchmaschinen.",
               },
               {
                 q: "Wie unterscheidet sich eine GEO Agentur von einer klassischen SEO Agentur?",
-                a: "Eine GEO Agentur optimiert nicht nur fuer Google-Rankings, sondern gezielt fuer KI-Suchsysteme wie ChatGPT und Perplexity. Das erfordert andere Tools, andere Strategien und tiefes Verstaendnis fuer die Funktionsweise von KI-Modellen. Wir verstehen, wie LLMs entscheiden, welche Quellen sie zitieren — und optimieren Ihre Inhalte entsprechend.",
+                a: "Eine GEO Agentur optimiert nicht nur fuer Google-Rankings, sondern gezielt fuer Suchmaschinen und KI-Chatbots wie ChatGPT und Perplexity. Das erfordert andere Tools, andere Strategien und tiefes Know-how in der Funktionsweise generativer Systeme. Wir verstehen, wie ki-gestuetzte Suchsysteme entscheiden, welche Quellen sie zitieren — und optimieren Ihre Inhalte entsprechend.",
               },
               {
                 q: "Wie lange dauert es, bis Ergebnisse sichtbar werden?",
@@ -467,7 +470,7 @@ export default function Home() {
               },
               {
                 q: "Wie waehlt die KI aus, was in die Antwort kommt?",
-                a: "KI-Modelle bewerten Inhalte nach Relevanz, Autoritaet, Aktualitaet und semantischer Praezision. Quellen mit hoher Zitierfaehigkeit, konsistenten Entity-Signalen und strukturierten Daten werden bevorzugt. Genau diese Faktoren optimieren wir strategisch als Ihre GEO Agentur.",
+                a: "Generative Suchsysteme bewerten Inhalte nach Relevanz, Autoritaet, Aktualitaet und semantischer Praezision. Quellen mit hoher Zitierfaehigkeit, konsistenten Entity-Signalen und strukturierten Daten werden bevorzugt. Genau diese Faktoren optimieren wir strategisch als Ihre GEO Agentur.",
               },
             ].map((f) => (
               <details
