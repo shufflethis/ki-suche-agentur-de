@@ -3,9 +3,9 @@ import "./globals.css";
 import AuditCta from "./components/AuditCta";
 
 export const metadata: Metadata = {
-  title: "KI-Suche Agentur | GEO & LLMO Optimierung für KI-Suchmaschinen",
+  title: "GEO Agentur: Mehr Sichtbarkeit in der KI-Suche steigern",
   description:
-    "Ihre Experten für Generative Engine Optimization (GEO). Wir optimieren Ihre Sichtbarkeit in ChatGPT, Perplexity, Google AI Overviews und anderen KI-Suchsystemen. Mehr Leads durch AI-Sichtbarkeit.",
+    "GEO Agentur: Steigern Sie Ihre Sichtbarkeit in der KI-Suche! SEO, GEO & Generative Engine Optimization für ChatGPT & Perplexity. Mehr Sichtbarkeit durch KI-Optimierung.",
   keywords: [
     "KI-Suche Agentur",
     "GEO Agentur",
