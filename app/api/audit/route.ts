@@ -43,9 +43,9 @@ export async function POST(req: NextRequest) {
         });
 
         await pool.query(
-          `INSERT INTO audit_requests (brand, domain, email, industry, status)
-           VALUES ($1, $2, $3, $4, 'pending')`,
-          [brand, domain || null, email, branche || null]
+          `INSERT INTO audit_requests (brand, domain, email, industry, status, source)
+           VALUES ($1, $2, $3, $4, 'pending', $5)`,
+          [brand, domain || null, email, branche || null, "ki-suche-agentur.de"]
         );
 
         await pool.end();
