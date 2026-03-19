@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import AuditCta from "./components/AuditCta";
 
 export const metadata: Metadata = {
   title: "KI-Suche Agentur | GEO & LLMO Optimierung für KI-Suchmaschinen",
@@ -50,6 +51,7 @@ export default function RootLayout({
       </head>
       <body className="bg-neutral-950 text-neutral-100 antialiased">
         {children}
+        <AuditCta />
       </body>
     </html>
   );
